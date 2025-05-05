@@ -36,7 +36,7 @@ h2 {
 }
 
 button {
-  border: 1px solid black;
+  border: 2px solid black;
   padding-top: 10px;
   padding-bottom: 10px;
   color: white;
@@ -57,4 +57,5 @@ button {
 
 #save-el {
   font-weight: bold;
+  font-size: 20px;
 }
